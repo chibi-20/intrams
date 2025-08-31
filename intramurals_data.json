@@ -1,0 +1,238 @@
+{
+  "grades": {
+    "grade-7": {
+      "name": "Grade 7",
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    },
+    "grade-8": {
+      "name": "Grade 8",
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    },
+    "grade-9": {
+      "name": "Grade 9",
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    },
+    "grade-10": {
+      "name": "Grade 10",
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    }
+  },
+  "sports": {
+    "100m": {
+      "name": "100m Run",
+      "category": "Individual Sports",
+      "icon": "fas fa-running",
+      "results": []
+    },
+    "200m": {
+      "name": "200m Run",
+      "category": "Individual Sports",
+      "icon": "fas fa-running",
+      "results": []
+    },
+    "400m": {
+      "name": "400m Run",
+      "category": "Individual Sports",
+      "icon": "fas fa-running",
+      "results": []
+    },
+    "800m": {
+      "name": "800m Run",
+      "category": "Individual Sports",
+      "icon": "fas fa-running",
+      "results": []
+    },
+    "1500m": {
+      "name": "1500m Run",
+      "category": "Individual Sports",
+      "icon": "fas fa-running",
+      "results": []
+    },
+    "4x100-boys": {
+      "name": "4x100m Relay (Boys)",
+      "category": "Individual Sports",
+      "icon": "fas fa-running",
+      "results": []
+    },
+    "4x100-girls": {
+      "name": "4x100m Relay (Girls)",
+      "category": "Individual Sports",
+      "icon": "fas fa-running",
+      "results": []
+    },
+    "4x400-mixed": {
+      "name": "4x400m Mixed Relay",
+      "category": "Individual Sports",
+      "icon": "fas fa-running",
+      "results": []
+    },
+    "long-jump": {
+      "name": "Long Jump",
+      "category": "Individual Sports",
+      "icon": "fas fa-running",
+      "results": []
+    },
+    "triple-jump": {
+      "name": "Triple Jump",
+      "category": "Individual Sports",
+      "icon": "fas fa-running",
+      "results": []
+    },
+    "shot-put": {
+      "name": "Shot Put Throw",
+      "category": "Individual Sports",
+      "icon": "fas fa-running",
+      "results": []
+    },
+    "discus": {
+      "name": "Discus Throw",
+      "category": "Individual Sports",
+      "icon": "fas fa-running",
+      "results": []
+    },
+    "javelin": {
+      "name": "Javelin Throw",
+      "category": "Individual Sports",
+      "icon": "fas fa-running",
+      "results": []
+    },
+    "arnis": {
+      "name": "Arnis",
+      "category": "Martial Arts",
+      "icon": "fas fa-fist-raised",
+      "results": []
+    },
+    "basketball": {
+      "name": "Basketball",
+      "category": "Team Sports",
+      "icon": "fas fa-basketball-ball",
+      "results": []
+    },
+    "boxing": {
+      "name": "Boxing",
+      "category": "Combat Sports",
+      "icon": "fas fa-fist-raised",
+      "results": []
+    },
+    "banner-art": {
+      "name": "Banner Art",
+      "category": "Creative Arts",
+      "icon": "fas fa-palette",
+      "results": []
+    },
+    "mobile-legends": {
+      "name": "Mobile Legends",
+      "category": "E-Sports",
+      "icon": "fas fa-mobile-alt",
+      "results": []
+    },
+    "codm": {
+      "name": "Call of Duty Mobile",
+      "category": "E-Sports",
+      "icon": "fas fa-crosshairs",
+      "results": []
+    },
+    "tekken7": {
+      "name": "Tekken 7",
+      "category": "E-Sports",
+      "icon": "fas fa-gamepad",
+      "results": []
+    },
+    "valorant": {
+      "name": "Valorant",
+      "category": "E-Sports",
+      "icon": "fas fa-bullseye",
+      "results": []
+    },
+    "futsal": {
+      "name": "Futsal",
+      "category": "Team Sports",
+      "icon": "fas fa-futbol",
+      "results": []
+    },
+    "badminton": {
+      "name": "Badminton",
+      "category": "Individual/Dual Sports",
+      "icon": "fas fa-shuttlecock",
+      "results": []
+    },
+    "table-tennis": {
+      "name": "Table Tennis",
+      "category": "Individual/Dual Sports",
+      "icon": "fas fa-table-tennis",
+      "results": []
+    },
+    "chess": {
+      "name": "Chess",
+      "category": "Individual/Dual Sports",
+      "icon": "fas fa-chess",
+      "results": []
+    },
+    "billiards": {
+      "name": "Billiards",
+      "category": "Individual/Dual Sports",
+      "icon": "fas fa-circle",
+      "results": []
+    },
+    "taekwondo": {
+      "name": "Taekwondo",
+      "category": "Martial Arts",
+      "icon": "fas fa-fist-raised",
+      "results": []
+    },
+    "volleyball": {
+      "name": "Volleyball",
+      "category": "Team Sports",
+      "icon": "fas fa-volleyball-ball",
+      "results": []
+    },
+    "sepak-takraw": {
+      "name": "Sepak Takraw",
+      "category": "Team Sports",
+      "icon": "fas fa-volleyball-ball",
+      "results": []
+    },
+    "dance-sport": {
+      "name": "Dance Sport",
+      "category": "Demo Sports",
+      "icon": "fas fa-music",
+      "results": []
+    },
+    "wrestling": {
+      "name": "Wrestling",
+      "category": "Combat Sports",
+      "icon": "fas fa-fist-raised",
+      "results": []
+    },
+    "larong-pinoy": {
+      "name": "Larong Pinoy",
+      "category": "Traditional Games",
+      "icon": "fas fa-child",
+      "results": []
+    },
+    "banderitas": {
+      "name": "Banderitas Making Contest",
+      "category": "Creative Arts",
+      "icon": "fas fa-flag",
+      "results": []
+    }
+  },
+  "medalValues": {
+    "gold": 3,
+    "silver": 2,
+    "bronze": 1
+  },
+  "lastUpdated": "2025-08-31T00:00:00.000Z"
+}
