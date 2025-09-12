@@ -378,8 +378,8 @@ class IntramuralsLeaderboard {
                 // For Athletics tab, show only athletics events
                 return sport.subcategory === 'Athletics';
             } else if (this.currentCategory === 'individual-dual-sports') {
-                // For Individual/Dual Sports tab, show all individual sports except athletics
-                return sport.category === 'Individual Sports' && sport.subcategory !== 'Athletics';
+                // For Individual/Dual Sports tab, show individual/dual sports
+                return sport.category === 'Individual/Dual Sports';
             } else {
                 // For other tabs, use normal category matching
                 return sport.category === categoryName;
