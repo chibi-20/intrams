@@ -1,0 +1,634 @@
+{
+  "grades": {
+    "grade-7": {
+      "name": "Grade 7",
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    },
+    "grade-8": {
+      "name": "Grade 8",
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    },
+    "grade-9": {
+      "name": "Grade 9",
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    },
+    "grade-10": {
+      "name": "Grade 10",
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    }
+  },
+  "sports": {
+    "athletics-100m-boys": {
+      "name": "100m Run (Boys)",
+      "category": "Individual Sports",
+      "subcategory": "Athletics",
+      "gender": "Boys",
+      "icon": "fas fa-running",
+      "results": []
+    },
+    "athletics-100m-girls": {
+      "name": "100m Run (Girls)",
+      "category": "Individual Sports",
+      "subcategory": "Athletics",
+      "gender": "Girls",
+      "icon": "fas fa-running",
+      "results": []
+    },
+    "athletics-200m-boys": {
+      "name": "200m Run (Boys)",
+      "category": "Individual Sports",
+      "subcategory": "Athletics",
+      "gender": "Boys",
+      "icon": "fas fa-running",
+      "results": []
+    },
+    "athletics-200m-girls": {
+      "name": "200m Run (Girls)",
+      "category": "Individual Sports",
+      "subcategory": "Athletics",
+      "gender": "Girls",
+      "icon": "fas fa-running",
+      "results": []
+    },
+    "athletics-400m-boys": {
+      "name": "400m Run (Boys)",
+      "category": "Individual Sports",
+      "subcategory": "Athletics",
+      "gender": "Boys",
+      "icon": "fas fa-running",
+      "results": []
+    },
+    "athletics-400m-girls": {
+      "name": "400m Run (Girls)",
+      "category": "Individual Sports",
+      "subcategory": "Athletics",
+      "gender": "Girls",
+      "icon": "fas fa-running",
+      "results": []
+    },
+    "athletics-800m-boys": {
+      "name": "800m Run (Boys)",
+      "category": "Individual Sports",
+      "subcategory": "Athletics",
+      "gender": "Boys",
+      "icon": "fas fa-running",
+      "results": []
+    },
+    "athletics-800m-girls": {
+      "name": "800m Run (Girls)",
+      "category": "Individual Sports",
+      "subcategory": "Athletics",
+      "gender": "Girls",
+      "icon": "fas fa-running",
+      "results": []
+    },
+    "athletics-1500m-boys": {
+      "name": "1500m Run (Boys)",
+      "category": "Individual Sports",
+      "subcategory": "Athletics",
+      "gender": "Boys",
+      "icon": "fas fa-running",
+      "results": []
+    },
+    "athletics-1500m-girls": {
+      "name": "1500m Run (Girls)",
+      "category": "Individual Sports",
+      "subcategory": "Athletics",
+      "gender": "Girls",
+      "icon": "fas fa-running",
+      "results": []
+    },
+    "athletics-4x100-boys": {
+      "name": "4x100m Relay (Boys)",
+      "category": "Individual Sports",
+      "subcategory": "Athletics",
+      "gender": "Boys",
+      "icon": "fas fa-running",
+      "results": []
+    },
+    "athletics-4x100-girls": {
+      "name": "4x100m Relay (Girls)",
+      "category": "Individual Sports",
+      "subcategory": "Athletics",
+      "gender": "Girls",
+      "icon": "fas fa-running",
+      "results": []
+    },
+    "athletics-4x400-mixed": {
+      "name": "4x400m Mixed Relay",
+      "category": "Individual Sports",
+      "subcategory": "Athletics",
+      "gender": "Mixed",
+      "icon": "fas fa-running",
+      "results": []
+    },
+    "athletics-longjump-boys": {
+      "name": "Long Jump (Boys)",
+      "category": "Individual Sports",
+      "subcategory": "Athletics",
+      "gender": "Boys",
+      "icon": "fas fa-running",
+      "results": []
+    },
+    "athletics-longjump-girls": {
+      "name": "Long Jump (Girls)",
+      "category": "Individual Sports",
+      "subcategory": "Athletics",
+      "gender": "Girls",
+      "icon": "fas fa-running",
+      "results": []
+    },
+    "athletics-triplejump-boys": {
+      "name": "Triple Jump (Boys)",
+      "category": "Individual Sports",
+      "subcategory": "Athletics",
+      "gender": "Boys",
+      "icon": "fas fa-running",
+      "results": []
+    },
+    "athletics-triplejump-girls": {
+      "name": "Triple Jump (Girls)",
+      "category": "Individual Sports",
+      "subcategory": "Athletics",
+      "gender": "Girls",
+      "icon": "fas fa-running",
+      "results": []
+    },
+    "athletics-shotput-boys": {
+      "name": "Shot Put Throw (Boys)",
+      "category": "Individual Sports",
+      "subcategory": "Athletics",
+      "gender": "Boys",
+      "icon": "fas fa-running",
+      "results": []
+    },
+    "athletics-shotput-girls": {
+      "name": "Shot Put Throw (Girls)",
+      "category": "Individual Sports",
+      "subcategory": "Athletics",
+      "gender": "Girls",
+      "icon": "fas fa-running",
+      "results": []
+    },
+    "athletics-discus-boys": {
+      "name": "Discus Throw (Boys)",
+      "category": "Individual Sports",
+      "subcategory": "Athletics",
+      "gender": "Boys",
+      "icon": "fas fa-running",
+      "results": []
+    },
+    "athletics-discus-girls": {
+      "name": "Discus Throw (Girls)",
+      "category": "Individual Sports",
+      "subcategory": "Athletics",
+      "gender": "Girls",
+      "icon": "fas fa-running",
+      "results": []
+    },
+    "athletics-javelin-boys": {
+      "name": "Javelin Throw (Boys)",
+      "category": "Individual Sports",
+      "subcategory": "Athletics",
+      "gender": "Boys",
+      "icon": "fas fa-running",
+      "results": []
+    },
+    "athletics-javelin-girls": {
+      "name": "Javelin Throw (Girls)",
+      "category": "Individual Sports",
+      "subcategory": "Athletics",
+      "gender": "Girls",
+      "icon": "fas fa-running",
+      "results": []
+    },
+    "arnis-pinweight-boys": {
+      "name": "Arnis Pinweight (Boys)",
+      "category": "Martial Arts",
+      "subcategory": "Arnis",
+      "gender": "Boys",
+      "icon": "fas fa-fist-raised",
+      "results": []
+    },
+    "arnis-pinweight-girls": {
+      "name": "Arnis Pinweight (Girls)",
+      "category": "Martial Arts",
+      "subcategory": "Arnis",
+      "gender": "Girls",
+      "icon": "fas fa-fist-raised",
+      "results": []
+    },
+    "arnis-bantamweight-boys": {
+      "name": "Arnis Bantamweight (Boys)",
+      "category": "Martial Arts",
+      "subcategory": "Arnis",
+      "gender": "Boys",
+      "icon": "fas fa-fist-raised",
+      "results": []
+    },
+    "arnis-bantamweight-girls": {
+      "name": "Arnis Bantamweight (Girls)",
+      "category": "Martial Arts",
+      "subcategory": "Arnis",
+      "gender": "Girls",
+      "icon": "fas fa-fist-raised",
+      "results": []
+    },
+    "arnis-featherweight-boys": {
+      "name": "Arnis Featherweight (Boys)",
+      "category": "Martial Arts",
+      "subcategory": "Arnis",
+      "gender": "Boys",
+      "icon": "fas fa-fist-raised",
+      "results": []
+    },
+    "arnis-featherweight-girls": {
+      "name": "Arnis Featherweight (Girls)",
+      "category": "Martial Arts",
+      "subcategory": "Arnis",
+      "gender": "Girls",
+      "icon": "fas fa-fist-raised",
+      "results": []
+    },
+    "arnis-extra-lightweight-boys": {
+      "name": "Arnis Extra Lightweight (Boys)",
+      "category": "Martial Arts",
+      "subcategory": "Arnis",
+      "gender": "Boys",
+      "icon": "fas fa-fist-raised",
+      "results": []
+    },
+    "arnis-extra-lightweight-girls": {
+      "name": "Arnis Extra Lightweight (Girls)",
+      "category": "Martial Arts",
+      "subcategory": "Arnis",
+      "gender": "Girls",
+      "icon": "fas fa-fist-raised",
+      "results": []
+    },
+    "arnis-half-flightweight-boys": {
+      "name": "Arnis Half Flightweight (Boys)",
+      "category": "Martial Arts",
+      "subcategory": "Arnis",
+      "gender": "Boys",
+      "icon": "fas fa-fist-raised",
+      "results": []
+    },
+    "arnis-half-flightweight-girls": {
+      "name": "Arnis Half Flightweight (Girls)",
+      "category": "Martial Arts",
+      "subcategory": "Arnis",
+      "gender": "Girls",
+      "icon": "fas fa-fist-raised",
+      "results": []
+    },
+    "basketball-5x5-boys": {
+      "name": "Basketball 5x5 (Boys)",
+      "category": "Team Sports",
+      "subcategory": "Basketball",
+      "gender": "Boys",
+      "icon": "fas fa-basketball-ball",
+      "results": []
+    },
+    "basketball-5x5-girls": {
+      "name": "Basketball 5x5 (Girls)",
+      "category": "Team Sports",
+      "subcategory": "Basketball",
+      "gender": "Girls",
+      "icon": "fas fa-basketball-ball",
+      "results": []
+    },
+    "basketball-3x3-boys": {
+      "name": "Basketball 3x3 (Boys)",
+      "category": "Team Sports",
+      "subcategory": "Basketball",
+      "gender": "Boys",
+      "icon": "fas fa-basketball-ball",
+      "results": []
+    },
+    "basketball-3x3-girls": {
+      "name": "Basketball 3x3 (Girls)",
+      "category": "Team Sports",
+      "subcategory": "Basketball",
+      "gender": "Girls",
+      "icon": "fas fa-basketball-ball",
+      "results": []
+    },
+    "badminton-singles-boys": {
+      "name": "Badminton Singles (Boys)",
+      "category": "Individual/Dual Sports",
+      "subcategory": "Badminton",
+      "gender": "Boys",
+      "icon": "fas fa-shuttlecock",
+      "results": []
+    },
+    "badminton-singles-girls": {
+      "name": "Badminton Singles (Girls)",
+      "category": "Individual/Dual Sports",
+      "subcategory": "Badminton",
+      "gender": "Girls",
+      "icon": "fas fa-shuttlecock",
+      "results": []
+    },
+    "badminton-doubles-boys": {
+      "name": "Badminton Doubles (Boys)",
+      "category": "Individual/Dual Sports",
+      "subcategory": "Badminton",
+      "gender": "Boys",
+      "icon": "fas fa-shuttlecock",
+      "results": []
+    },
+    "badminton-doubles-girls": {
+      "name": "Badminton Doubles (Girls)",
+      "category": "Individual/Dual Sports",
+      "subcategory": "Badminton",
+      "gender": "Girls",
+      "icon": "fas fa-shuttlecock",
+      "results": []
+    },
+    "badminton-mixed-doubles": {
+      "name": "Badminton Mixed Doubles",
+      "category": "Individual/Dual Sports",
+      "subcategory": "Badminton",
+      "gender": "Mixed",
+      "icon": "fas fa-shuttlecock",
+      "results": []
+    },
+    "billiards-9ball-boys": {
+      "name": "Billiards 9 Ball (Boys)",
+      "category": "Individual/Dual Sports",
+      "subcategory": "Billiards",
+      "gender": "Boys",
+      "icon": "fas fa-circle",
+      "results": []
+    },
+    "billiards-9ball-girls": {
+      "name": "Billiards 9 Ball (Girls)",
+      "category": "Individual/Dual Sports",
+      "subcategory": "Billiards",
+      "gender": "Girls",
+      "icon": "fas fa-circle",
+      "results": []
+    },
+    "billiards-8ball-boys": {
+      "name": "Billiards 8 Ball (Boys)",
+      "category": "Individual/Dual Sports",
+      "subcategory": "Billiards",
+      "gender": "Boys",
+      "icon": "fas fa-circle",
+      "results": []
+    },
+    "billiards-8ball-girls": {
+      "name": "Billiards 8 Ball (Girls)",
+      "category": "Individual/Dual Sports",
+      "subcategory": "Billiards",
+      "gender": "Girls",
+      "icon": "fas fa-circle",
+      "results": []
+    },
+    "boxing-flyweight-boys": {
+      "name": "Boxing Flyweight (Boys)",
+      "category": "Martial Arts",
+      "subcategory": "Boxing",
+      "gender": "Boys",
+      "icon": "fas fa-fist-raised",
+      "results": []
+    },
+    "boxing-flyweight-girls": {
+      "name": "Boxing Flyweight (Girls)",
+      "category": "Martial Arts",
+      "subcategory": "Boxing",
+      "gender": "Girls",
+      "icon": "fas fa-fist-raised",
+      "results": []
+    },
+    "boxing-bantamweight-boys": {
+      "name": "Boxing Bantamweight (Boys)",
+      "category": "Martial Arts",
+      "subcategory": "Boxing",
+      "gender": "Boys",
+      "icon": "fas fa-fist-raised",
+      "results": []
+    },
+    "boxing-bantamweight-girls": {
+      "name": "Boxing Bantamweight (Girls)",
+      "category": "Martial Arts",
+      "subcategory": "Boxing",
+      "gender": "Girls",
+      "icon": "fas fa-fist-raised",
+      "results": []
+    },
+    "chess-boys": {
+      "name": "Chess (Boys)",
+      "category": "Individual/Dual Sports",
+      "subcategory": "Chess",
+      "gender": "Boys",
+      "icon": "fas fa-chess",
+      "results": []
+    },
+    "chess-girls": {
+      "name": "Chess (Girls)",
+      "category": "Individual/Dual Sports",
+      "subcategory": "Chess",
+      "gender": "Girls",
+      "icon": "fas fa-chess",
+      "results": []
+    },
+    "esports-ml-boys": {
+      "name": "Mobile Legends (Boys)",
+      "category": "E-Sports",
+      "subcategory": "E-Sports",
+      "gender": "Boys",
+      "icon": "fas fa-mobile-alt",
+      "results": []
+    },
+    "esports-ml-girls": {
+      "name": "Mobile Legends (Girls)",
+      "category": "E-Sports",
+      "subcategory": "E-Sports",
+      "gender": "Girls",
+      "icon": "fas fa-mobile-alt",
+      "results": []
+    },
+    "esports-codm-boys": {
+      "name": "Call of Duty Mobile (Boys)",
+      "category": "E-Sports",
+      "subcategory": "E-Sports",
+      "gender": "Boys",
+      "icon": "fas fa-crosshairs",
+      "results": []
+    },
+    "esports-codm-girls": {
+      "name": "Call of Duty Mobile (Girls)",
+      "category": "E-Sports",
+      "subcategory": "E-Sports",
+      "gender": "Girls",
+      "icon": "fas fa-crosshairs",
+      "results": []
+    },
+    "futsal-boys": {
+      "name": "Futsal (Boys)",
+      "category": "Team Sports",
+      "subcategory": "Futsal",
+      "gender": "Boys",
+      "icon": "fas fa-futbol",
+      "results": []
+    },
+    "futsal-girls": {
+      "name": "Futsal (Girls)",
+      "category": "Team Sports",
+      "subcategory": "Futsal",
+      "gender": "Girls",
+      "icon": "fas fa-futbol",
+      "results": []
+    },
+    "tabletennis-singles-boys": {
+      "name": "Table Tennis Singles (Boys)",
+      "category": "Individual/Dual Sports",
+      "subcategory": "Table Tennis",
+      "gender": "Boys",
+      "icon": "fas fa-table-tennis",
+      "results": []
+    },
+    "tabletennis-singles-girls": {
+      "name": "Table Tennis Singles (Girls)",
+      "category": "Individual/Dual Sports",
+      "subcategory": "Table Tennis",
+      "gender": "Girls",
+      "icon": "fas fa-table-tennis",
+      "results": []
+    },
+    "tabletennis-doubles-boys": {
+      "name": "Table Tennis Doubles (Boys)",
+      "category": "Individual/Dual Sports",
+      "subcategory": "Table Tennis",
+      "gender": "Boys",
+      "icon": "fas fa-table-tennis",
+      "results": []
+    },
+    "tabletennis-doubles-girls": {
+      "name": "Table Tennis Doubles (Girls)",
+      "category": "Individual/Dual Sports",
+      "subcategory": "Table Tennis",
+      "gender": "Girls",
+      "icon": "fas fa-table-tennis",
+      "results": []
+    },
+    "tabletennis-mixed-doubles": {
+      "name": "Table Tennis Mixed Doubles",
+      "category": "Individual/Dual Sports",
+      "subcategory": "Table Tennis",
+      "gender": "Mixed",
+      "icon": "fas fa-table-tennis",
+      "results": []
+    },
+    "volleyball-boys": {
+      "name": "Volleyball (Boys)",
+      "category": "Team Sports",
+      "subcategory": "Volleyball",
+      "gender": "Boys",
+      "icon": "fas fa-volleyball-ball",
+      "results": []
+    },
+    "volleyball-girls": {
+      "name": "Volleyball (Girls)",
+      "category": "Team Sports",
+      "subcategory": "Volleyball",
+      "gender": "Girls",
+      "icon": "fas fa-volleyball-ball",
+      "results": []
+    },
+    "sepaktakraw-boys": {
+      "name": "Sepak Takraw (Boys)",
+      "category": "Team Sports",
+      "subcategory": "Sepak Takraw",
+      "gender": "Boys",
+      "icon": "fas fa-volleyball-ball",
+      "results": []
+    },
+    "sepaktakraw-girls": {
+      "name": "Sepak Takraw (Girls)",
+      "category": "Team Sports",
+      "subcategory": "Sepak Takraw",
+      "gender": "Girls",
+      "icon": "fas fa-volleyball-ball",
+      "results": []
+    },
+    "taekwondo-boys": {
+      "name": "Taekwondo (Boys)",
+      "category": "Martial Arts",
+      "subcategory": "Taekwondo",
+      "gender": "Boys",
+      "icon": "fas fa-fist-raised",
+      "results": []
+    },
+    "taekwondo-girls": {
+      "name": "Taekwondo (Girls)",
+      "category": "Martial Arts",
+      "subcategory": "Taekwondo",
+      "gender": "Girls",
+      "icon": "fas fa-fist-raised",
+      "results": []
+    },
+    "banner-art": {
+      "name": "Banner Art",
+      "category": "Creative Arts",
+      "icon": "fas fa-palette",
+      "results": []
+    },
+    "banderitas": {
+      "name": "Banderitas Making Contest",
+      "category": "Creative Arts",
+      "icon": "fas fa-flag",
+      "results": []
+    },
+    "wrestling": {
+      "name": "Wrestling",
+      "category": "Martial Arts",
+      "icon": "fas fa-fist-raised",
+      "results": []
+    },
+    "dance-sport": {
+      "name": "Dance Sport",
+      "category": "Creative Arts",
+      "icon": "fas fa-music",
+      "results": []
+    },
+    "larong-pinoy": {
+      "name": "Larong Pinoy",
+      "category": "Creative Arts",
+      "icon": "fas fa-child",
+      "results": []
+    },
+    "tekken7": {
+      "name": "Tekken 7",
+      "category": "E-Sports",
+      "icon": "fas fa-gamepad",
+      "results": []
+    },
+    "valorant": {
+      "name": "Valorant",
+      "category": "E-Sports",
+      "icon": "fas fa-bullseye",
+      "results": []
+    }
+  },
+  "medalValues": {
+    "gold": 3,
+    "silver": 2,
+    "bronze": 1
+  },
+  "lastUpdated": "2025-08-31T00:00:00.000Z"
+}

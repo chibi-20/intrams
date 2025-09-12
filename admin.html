@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JZGMNHS Intramurals 2025 - Admin Panel</title>
+    <link rel="stylesheet" href="admin-styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Rajdhani:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header class="admin-header">
+            <div class="header-content">
+                <div class="admin-title">
+                    <i class="fas fa-medal admin-icon"></i>
+                    <h1>JZGMNHS Intramurals 2025</h1>
+                    <p>Medal Tally Admin Panel</p>
+                </div>
+                <div class="header-actions">
+                    <button class="btn btn-primary" onclick="exportData()">
+                        <i class="fas fa-download"></i>
+                        Export Data
+                    </button>
+                    <button class="btn btn-secondary" onclick="window.close()">
+                        <i class="fas fa-times"></i>
+                        Close
+                    </button>
+                </div>
+            </div>
+        </header>
+
+        <nav class="admin-tabs">
+            <button class="admin-tab-btn active" data-sport="all">
+                <i class="fas fa-medal"></i>
+                Medal Tally
+            </button>
+            <button class="admin-tab-btn" data-sport="athletics">
+                <i class="fas fa-running"></i>
+                Athletics
+            </button>
+            <button class="admin-tab-btn" data-sport="individual-dual-sports">
+                <i class="fas fa-table-tennis"></i>
+                Individual/Dual Sports
+            </button>
+            <button class="admin-tab-btn" data-sport="team-sports">
+                <i class="fas fa-users"></i>
+                Team Sports
+            </button>
+            <button class="admin-tab-btn" data-sport="e-sports">
+                <i class="fas fa-gamepad"></i>
+                E-Sports
+            </button>
+            <button class="admin-tab-btn" data-sport="martial-arts">
+                <i class="fas fa-fist-raised"></i>
+                Martial Arts
+            </button>
+            <button class="admin-tab-btn" data-sport="creative-arts">
+                <i class="fas fa-palette"></i>
+                Creative Arts
+            </button>
+        </nav>
+
+        <div class="admin-content">
+            <div class="medal-management-section">
+                <div class="section-header">
+                    <h2>🏆 Medal Management</h2>
+                    <div class="section-actions">
+                        <button class="btn btn-primary" onclick="saveMedals()">
+                            <i class="fas fa-save"></i>
+                            Save Changes
+                        </button>
+                        <button class="btn btn-warning" onclick="resetAllMedals()">
+                            <i class="fas fa-eraser"></i>
+                            Reset All
+                        </button>
+                    </div>
+                </div>
+
+                <div class="medal-tally-editor" id="medal-tally-editor">
+                    <!-- Medal tally editor will be dynamically populated -->
+                </div>
+            </div>
+
+            <div class="sport-results-section">
+                <div class="section-header">
+                    <h2>🎯 Sport Results</h2>
+                    <div class="section-actions">
+                        <button class="btn btn-primary" onclick="addSportResult()">
+                            <i class="fas fa-plus"></i>
+                            Add Result
+                        </button>
+                    </div>
+                </div>
+
+                <div class="sport-results-container" id="sport-results-container">
+                    <!-- Sport results will be dynamically populated -->
+                </div>
+            </div>
+
+            <div class="json-output-section">
+                <div class="section-header">
+                    <h2>Generated JSON Output</h2>
+                    <div class="section-actions">
+                        <button class="btn btn-secondary" onclick="copyJSON()">
+                            <i class="fas fa-copy"></i>
+                            Copy JSON
+                        </button>
+                        <button class="btn btn-warning" onclick="downloadJSON()">
+                            <i class="fas fa-download"></i>
+                            Download JSON
+                        </button>
+                    </div>
+                </div>
+
+                <div class="json-container">
+                    <pre id="json-output">Loading...</pre>
+                </div>
+
+                <div class="instructions">
+                    <h3><i class="fas fa-list-ol"></i> Instructions:</h3>
+                    <ol>
+                        <li>Update medal counts or add sport results</li>
+                        <li>Copy the JSON output above</li>
+                        <li>Replace the contents of <code>intramurals_data.json</code></li>
+                        <li>Refresh the main website to see changes</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="admin.js"></script>
+</body>
+</html>
