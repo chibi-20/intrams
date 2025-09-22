@@ -398,6 +398,22 @@
       "icon": "fas fa-circle",
       "results": []
     },
+    "billiards-10ball-boys": {
+      "name": "Billiards 10 Ball (Boys)",
+      "category": "Individual/Dual Sports",
+      "subcategory": "Billiards",
+      "gender": "Boys",
+      "icon": "fas fa-circle",
+      "results": []
+    },
+    "billiards-10ball-girls": {
+      "name": "Billiards 10 Ball (Girls)",
+      "category": "Individual/Dual Sports",
+      "subcategory": "Billiards",
+      "gender": "Girls",
+      "icon": "fas fa-circle",
+      "results": []
+    },
     "boxing-flyweight-boys": {
       "name": "Boxing Flyweight (Boys)",
       "category": "Martial Arts",
@@ -566,16 +582,112 @@
       "icon": "fas fa-volleyball-ball",
       "results": []
     },
-    "taekwondo-boys": {
-      "name": "Taekwondo (Boys)",
+    "taekwondo-boys-under45kg": {
+      "name": "Taekwondo Under 45kg (Boys)",
       "category": "Martial Arts",
       "subcategory": "Taekwondo",
       "gender": "Boys",
       "icon": "fas fa-fist-raised",
       "results": []
     },
-    "taekwondo-girls": {
-      "name": "Taekwondo (Girls)",
+    "taekwondo-boys-under48kg": {
+      "name": "Taekwondo Under 48kg (Boys)",
+      "category": "Martial Arts",
+      "subcategory": "Taekwondo",
+      "gender": "Boys",
+      "icon": "fas fa-fist-raised",
+      "results": []
+    },
+    "taekwondo-boys-under51kg": {
+      "name": "Taekwondo Under 51kg (Boys)",
+      "category": "Martial Arts",
+      "subcategory": "Taekwondo",
+      "gender": "Boys",
+      "icon": "fas fa-fist-raised",
+      "results": []
+    },
+    "taekwondo-boys-under55kg": {
+      "name": "Taekwondo Under 55kg (Boys)",
+      "category": "Martial Arts",
+      "subcategory": "Taekwondo",
+      "gender": "Boys",
+      "icon": "fas fa-fist-raised",
+      "results": []
+    },
+    "taekwondo-boys-under59kg": {
+      "name": "Taekwondo Under 59kg (Boys)",
+      "category": "Martial Arts",
+      "subcategory": "Taekwondo",
+      "gender": "Boys",
+      "icon": "fas fa-fist-raised",
+      "results": []
+    },
+    "taekwondo-boys-under63kg": {
+      "name": "Taekwondo Under 63kg (Boys)",
+      "category": "Martial Arts",
+      "subcategory": "Taekwondo",
+      "gender": "Boys",
+      "icon": "fas fa-fist-raised",
+      "results": []
+    },
+    "taekwondo-boys-under68kg": {
+      "name": "Taekwondo Under 68kg (Boys)",
+      "category": "Martial Arts",
+      "subcategory": "Taekwondo",
+      "gender": "Boys",
+      "icon": "fas fa-fist-raised",
+      "results": []
+    },
+    "taekwondo-girls-under42kg": {
+      "name": "Taekwondo Under 42kg (Girls)",
+      "category": "Martial Arts",
+      "subcategory": "Taekwondo",
+      "gender": "Girls",
+      "icon": "fas fa-fist-raised",
+      "results": []
+    },
+    "taekwondo-girls-under44kg": {
+      "name": "Taekwondo Under 44kg (Girls)",
+      "category": "Martial Arts",
+      "subcategory": "Taekwondo",
+      "gender": "Girls",
+      "icon": "fas fa-fist-raised",
+      "results": []
+    },
+    "taekwondo-girls-under46kg": {
+      "name": "Taekwondo Under 46kg (Girls)",
+      "category": "Martial Arts",
+      "subcategory": "Taekwondo",
+      "gender": "Girls",
+      "icon": "fas fa-fist-raised",
+      "results": []
+    },
+    "taekwondo-girls-under49kg": {
+      "name": "Taekwondo Under 49kg (Girls)",
+      "category": "Martial Arts",
+      "subcategory": "Taekwondo",
+      "gender": "Girls",
+      "icon": "fas fa-fist-raised",
+      "results": []
+    },
+    "taekwondo-girls-under52kg": {
+      "name": "Taekwondo Under 52kg (Girls)",
+      "category": "Martial Arts",
+      "subcategory": "Taekwondo",
+      "gender": "Girls",
+      "icon": "fas fa-fist-raised",
+      "results": []
+    },
+    "taekwondo-girls-under55kg": {
+      "name": "Taekwondo Under 55kg (Girls)",
+      "category": "Martial Arts",
+      "subcategory": "Taekwondo",
+      "gender": "Girls",
+      "icon": "fas fa-fist-raised",
+      "results": []
+    },
+    "taekwondo-girls-under59kg": {
+      "name": "Taekwondo Under 59kg (Girls)",
       "category": "Martial Arts",
       "subcategory": "Taekwondo",
       "gender": "Girls",
